@@ -22,6 +22,7 @@ function uppercase(letter){
 
 
 }
+
 function win(UserChoice, pcchoise){
     const UserChoice_div=  document.getElementById(UserChoice);
     userScore++;
